@@ -1,0 +1,24 @@
+body{
+    background-color: #F9F9F9;
+    font-family: 'Roboto', sans-serif;
+}
+
+.line{
+    color: #FFE718;
+    font-size: 1.25rem;
+}
+
+.nav-counter {
+    font-size: 2rem;
+}
+
+.nav-item{
+    font-family: 'Lato', sans-serif;
+}
+.btn{
+    border-radius: 0;
+}
+
+.nav-icon{
+    font-size: 2rem;
+}
